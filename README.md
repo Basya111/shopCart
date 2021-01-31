@@ -4,7 +4,7 @@
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Contributes](#contributes)
-* [Contact Us](#contact us)
+* [Contact Us](#contactus)
 
 ## General info
 This project is simple 2 pages shopping cart with an option to add items and see them on your cart page.
