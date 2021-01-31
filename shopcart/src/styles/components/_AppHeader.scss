@@ -1,0 +1,33 @@
+.app-header{
+    background-color: rgb(74, 91, 168);
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    color: white;
+    margin-bottom: 10px;
+    svg{
+        color: #fff;
+    }
+    .cart{
+        position: relative;
+        span{
+                
+    transition: 0.2s ease;
+    background-color: white;
+    position: absolute;
+    color: black;
+    width: 20px;
+    font-size: 0.8rem;
+    line-height: 20px;
+    text-align: center;
+    border-radius: 50%;
+    top: 2%;
+    z-index: 10;
+    right: 23px;
+        }
+    }
+
+    li{
+        margin-left: 15px;
+    }
+}
